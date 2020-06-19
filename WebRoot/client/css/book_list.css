@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+.book——list{
+	float:left;
+}
+
+.book_img{
+	width:200px;
+}
+
+.book_info{
+	list-style:none;
+	padding:0;
+	margin:0;
+	float:left;
+}
+
+.book{
+	width:100%;
+	height:240px;
+	background-color:#EBEBEB;
+	border-collapse:separate;
+	border-spacing:20px 0px;
+	padding:0px;
+}

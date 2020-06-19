@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#divheader{
+	border:0px;
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.header_table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+.header_row1{
+	background-color:#B22222;
+	height:45px;
+}
+
+.header_row2{
+	background-color:#4D9EB3;
+}
+
+.header_a{
+	color:#E5E5E5;
+	text-decoration:none;
+}
+.header_a:hover{
+	color:#FFFFFF;
+}
